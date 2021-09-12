@@ -1,2 +1,2 @@
 # Learn
-Repo for learning pourposes
+Repo for learning pourposes. Currently learning React js.
