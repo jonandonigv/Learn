@@ -1,13 +1,13 @@
 console.log("hello world");
 
-function greet(person: string, date: Date) {
+function hello(person: string, date: Date) {
     console.log(`Hello ${person}, today is ${date}!`);
 }
 
-greet("Brendan", new Date());
+hello("Brendan", new Date());
 
-function greet2(person, date) {
+function hello2(person, date) {
     console.log("Hello " + person + ", today is " + date.toDateString() + "!");
 }
 
-greet2("Maddison", new Date());
+hello2("Maddison", new Date());
